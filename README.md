@@ -2,7 +2,7 @@
 This project applies various machine learning algorithms to classify credit card transactions as fraudulent or valid, helping in financial fraud prevention.
 
 # Dataset
-Kaggle: Credit Card Fraud Detection
+Kaggle: https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 #  Key Features
 1. Uses multiple machine learning models for fraud detection
